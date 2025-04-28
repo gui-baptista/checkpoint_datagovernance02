@@ -1,1 +1,1 @@
-# checkpoint_datagovernance02
+Repositório do sistema de coleta de lixo.
